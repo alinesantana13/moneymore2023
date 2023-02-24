@@ -1,1 +1,1 @@
-web: gunicorn NOME_DO_SEU_PROJETO.wsgi --log-file -
+web: gunicorn adote.wsgi --log-file -
